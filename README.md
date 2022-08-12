@@ -1,2 +1,2 @@
 # API-RickyAndMorty
-Ricky &amp; Morty
+Rick &amp; Morty
